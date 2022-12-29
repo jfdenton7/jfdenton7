@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 My name is Josiah, and I'm
+- actively working at C1 as a Fullstack Engineer
 - working on AoC 2022 in C++
-- possibly joining OMSCS in 2023
+- possibly joining OMSCS in 2022
 
 <!--
-**jfdenton7/jfdenton7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**josiahdenton/josiahdenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

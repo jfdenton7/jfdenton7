@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 My name is Josiah, and I'm
+- a father
 - actively working at C1 as a Fullstack Engineer
-- working on AoC 2022 in C++
-- possibly joining OMSCS in 2023
+- practicing C/C++ for Fall OMSCS 2023 
+- working on creating a PWA focused on productivity
 
 <!--
 **josiahdenton/josiahdenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

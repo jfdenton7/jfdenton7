@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Josiah, and I'm
-- a father
-- actively working at C1 as a Backend Engineer
-- practicing C/C++ for Fall OMSCS 2023 
-- working on creating a PWA focused on productivity
-- learning htmx, websockets, sse with go and python
+My name is Josiah, and I
+- am a father
+- work at C1 as a Backend Engineer
+- am focusing on C/C++ for Fall OMSCS 2023 
+- love cli tools!
+- am looking at htmx, websockets, sse with go and python
 
 <!--
 **josiahdenton/josiahdenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

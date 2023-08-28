@@ -2,10 +2,9 @@
 
 My name is Josiah, and I
 - am a father
-- work at C1 as a Backend Engineer
-- am focused on C/C++ for Fall OMSCS 2023 
+- work at C1 as a Backend Engineer in Python using EDA
 - love cli tools!
-- am looking at htmx, websockets, sse with go and python
+- am learning rust
 
 <!--
 **josiahdenton/josiahdenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

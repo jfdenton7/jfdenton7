@@ -3,6 +3,7 @@
 My name is Josiah, and I
 - am a father
 - work at C1 as a Fullstack/mobile Engineer using React & Typescript
+  - and have worked previously with golang, python, Vuejs, and Angular 
 - love cli tools and writing nvim plugins
 - am learning zig
 

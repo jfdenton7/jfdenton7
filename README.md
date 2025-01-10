@@ -2,9 +2,9 @@
 
 My name is Josiah, and I
 - am a father
-- work at C1 as a Backend Engineer in Python using EDA
-- love cli tools!
-- am learning rust
+- work at C1 as a Fullstack/mobile Engineer using React & Typescript
+- love cli tools and writing nvim plugins
+- am learning zig
 
 <!--
 **josiahdenton/josiahdenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
